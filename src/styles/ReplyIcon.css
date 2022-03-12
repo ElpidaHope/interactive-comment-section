@@ -1,0 +1,13 @@
+.reply-icon {
+  display: flex;
+  align-items: center;
+  align-self: center;
+  gap: 10px;
+  color: var(--Moderate-blue);
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.reply-icon:hover {
+  opacity: 0.5;
+}

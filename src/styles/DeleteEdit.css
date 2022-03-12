@@ -1,0 +1,16 @@
+.deleteEdit {
+  display: flex;
+  gap: 20px;
+  margin-left: auto;
+}
+
+.icon-delete, .icon-edit {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  cursor: pointer;
+}
+
+.icon-delete:hover, .icon-edit:hover {
+  opacity: 0.5;
+}

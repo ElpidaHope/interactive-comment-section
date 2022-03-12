@@ -1,0 +1,33 @@
+.upvote {
+  background-color: var(--Light-gray);
+  display: flex;
+  align-items: center;
+  width: 70px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.upvote input {
+  background: transparent;
+  border: none;
+  width: 100%;
+  text-align: center;
+  color: var(--Moderate-blue);
+  font-weight: 700;
+}
+
+@media (min-width:768px) {
+  .upvote {
+    flex-direction: column;
+    width: 35px;
+    height: 100px;
+    margin-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    gap: 20px;
+  }
+}
+
+.upvote img {
+  cursor: pointer;
+}
