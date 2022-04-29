@@ -20,8 +20,8 @@ This is a solution to the [Interactive comments section challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/intearactivecommentsection-bL33CII6z)
-- Live Site URL: [Add live site URL here](https://elpidahope.github.io/interactive-comment-section/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/intearactivecommentsection-bL33CII6z)
+- Live Site URL: [Live site](https://elpidahope.github.io/interactive-comment-section/)
 
 ## My process
 
